@@ -1,4 +1,4 @@
-# qubitnepal
+# qubitnepal.com
 Hands-on tutorials for qubitnepal.com weekly meeting series!
 
 You can use either Jupyter Notebook (with Qiskit Installed) in your device, or Google Colab (https://colab.research.google.com/) 
