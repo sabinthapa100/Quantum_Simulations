@@ -1,14 +1,9 @@
-# qubitnepal.com: Quantum Computing in Nepal (https://qubitnepal.com/?p=397)
-Hands-on tutorials for qubitnepal.com weekly meeting series!
+# Quantum Simulation by 
 
-You can use either Jupyter Notebook (with Qiskit Installed) in your device, or Google Colab (https://colab.research.google.com/) 
-or IBM Quantum (https://quantum-computing.ibm.com/).
-
-
-You can go through the tutorial -- it's detailed with easy-to-write code!
-
-Take this for your personal use only!
+- Sabin Thapa (@sabinthapa100)
+- Guna Nidhi Poudel (Roshan Poudel @roshan-1234).
 
 
+@copyrights
 
-Encourage more to learn quantum computing!!!!
+
